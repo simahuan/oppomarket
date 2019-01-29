@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OppomarketTools</string>
+    <string name="accessibility_tip">商店助手</string>
+    <string name="accessibility_desc">AccessibilitySample_DESC</string>
+</resources>
